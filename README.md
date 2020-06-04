@@ -99,6 +99,7 @@ shiny-potato deploy -storage-class csi-cephfs-sc
 **clean**
 
 ```console
+shiny-potato clean -storage-class csi-cephfs-sc
 >>> Starting: 2020-06-04 11:00:52.864378028 +0200 CEST m=+0.017911112
 >>> [POD] default/shiny-potato-0001 deleting...
 >>> [PVCLAIM] default/shiny-potato-0001 deleting...
