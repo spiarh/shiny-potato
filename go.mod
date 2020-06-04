@@ -3,6 +3,7 @@ module github.com/lcavajani/shiny-potato
 go 1.14
 
 require (
+	github.com/fatih/color v1.9.0
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/stretchr/testify v1.5.1 // indirect
